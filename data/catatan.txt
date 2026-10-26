@@ -1,0 +1,3 @@
+Log Praktikum File I/O - Pertemuan 12
+Nama: Amandita Pebriana Putri (2225250134)
+Status: Berhasil dijalankan dan data sukses direkap otomatis.
